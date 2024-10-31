@@ -1,0 +1,26 @@
+.PDFtoIMG_mainTitle{
+	color: #eb585d;
+}
+
+.PDFtoIMG_mainTitle span{
+	border: 1px solid #eb585d;
+	padding:5px 15px 10px 10px;
+	font-weight: bold;
+}
+
+.PDFtoIMG_mainTitle sub{
+	font-size:11px;
+}
+
+.panel {
+	display: none;
+}
+
+.pageTitle{
+	color: #333;
+}
+
+.badge a{
+	color: #FFF;
+	text-decoration: underline;
+}
